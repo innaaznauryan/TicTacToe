@@ -10,6 +10,7 @@ const Xoxo = () => {
     useEffect(() => {
         setWinner(checkWinner(board))
         checkDraw(board) && setIsDraw(true)
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [board])
 
     useEffect(() => {
