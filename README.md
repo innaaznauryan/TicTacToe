@@ -12,7 +12,7 @@ A simple Tic-Tac-Toe game built with React.
 
 ## Live Demo
 
-[Play the game](#) (Insert a link to your live demo, if available)
+[Play the game](https://xoxo-tictactoe.netlify.app/)
 
 ## Technologies Used
 
